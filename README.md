@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guna540
-- 👀 I’m interested in development,coding
+- 👀 I’m interested in 
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
